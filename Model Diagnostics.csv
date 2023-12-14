@@ -1,0 +1,7 @@
+﻿Model,Accuracy,Precision,RMSE
+LogisticRegression,79%,84%,0.46
+Decision Tree,84%,82%,0.4
+Random Forest,81%,83%,0.44
+KNeighborsClassifier,71%,83%,0.54
+Support Vector Machine(SVM),81%,83%,0.44
+Naive Bayes,85%,88%,0.39
