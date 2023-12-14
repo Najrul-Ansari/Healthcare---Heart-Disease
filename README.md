@@ -53,3 +53,35 @@
 
   •	Model Evaluation - In the model evaluation section, the performance of the trained machine learning models is assessed to select the best suited model for deployment.
 
+
++ Model Evaluation
+  
+  + LogisticRegression -
+    + Accuracy Score - 79%
+    + Precision Score - 84%
+    + RMSE - 0.46
+ 
+  + Decision Tree -
+    + Accuracy Score - 84%
+    + Precision Score - 82%
+    + RMSE - 0.4
+ 
+  + Random Forest -
+    + Accuracy Score - 81%
+    + Precision Score - 83%
+    + RMSE - 0.44
+     
+  + KNeighbors Classifier -
+    + Accuracy Score - 71%
+    + Precision Score - 83%
+    + RMSE - 0.54
+    
+  + Support Vector Machine(SVM) -
+    + Accuracy Score - 81%
+    + Precision Score - 83%
+    + RMSE - 0.44
+
+  + Naive Bayes -
+    + Accuracy Score - 85%
+    + Precision Score - 88%
+    + RMSE - 0.39
