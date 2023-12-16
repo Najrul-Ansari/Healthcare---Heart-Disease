@@ -2,9 +2,6 @@
 
 
 
-
-
-
 ## Healthcare-Heart-Disease
 
 + Dataset name - heart.csv
