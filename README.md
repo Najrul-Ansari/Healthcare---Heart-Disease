@@ -1,5 +1,3 @@
-
-
 # Capstone Project
 
 ## Healthcare-Heart-Disease
